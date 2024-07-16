@@ -1,5 +1,5 @@
 {
-  "Products": [
+  "Videos": [
     {
     "titulo": "cuando usar let,var y const",
     "Categoria": "Front End",
@@ -97,7 +97,8 @@
     "id": 3
   }
 ],
-[
+  "Categorias":
+  [
   {
     "id": 1,
     "nombre": "Front End",
